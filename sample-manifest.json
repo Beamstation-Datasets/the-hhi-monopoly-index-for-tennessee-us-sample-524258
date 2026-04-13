@@ -1,0 +1,12 @@
+{
+  "export_job_id": "76c58dcf-6c9b-432d-82e9-18963e3b178d",
+  "id_short": 524258,
+  "published_at": "2026-04-13T07:03:08Z",
+  "repo_name": "the-hhi-monopoly-index-for-tennessee-us-sample-524258",
+  "sample_asset_name": "beamstation_524258_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/524258/beamstation_524258_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_records": 62,
+  "sample_sha256": "edfbf7b89e16992e4769a1be13a08dc5b9531f2dd4412d69e7d5fb244e5789c1",
+  "sample_size_bytes": 257097,
+  "total_records": 628
+}

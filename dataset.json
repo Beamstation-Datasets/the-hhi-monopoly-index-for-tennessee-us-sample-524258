@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Tennessee, US",
+  "export_job_id": "76c58dcf-6c9b-432d-82e9-18963e3b178d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 524258,
+  "location_name": "Tennessee",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-tennessee-us-sample-524258",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/524258/beamstation_524258_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 62,
+  "sample_sha256": "edfbf7b89e16992e4769a1be13a08dc5b9531f2dd4412d69e7d5fb244e5789c1",
+  "sample_size_bytes": 257097,
+  "total_records": 628,
+  "updated_at": "2026-04-08T02:23:49.714811+00:00"
+}

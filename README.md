@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Tennessee, US
 
-> Free BeamStation sample export with 58 rows and masked direct-contact fields.
+> Free BeamStation sample export with 49 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `524258` |
 | Location | Tennessee |
 | Category | Restaurants |
-| Full dataset size | 586 records |
-| Free sample size | 58 records (9.9%) |
-| Last export | 2026-04-15T07:45:04.280501+00:00 |
+| Full dataset size | 495 records |
+| Free sample size | 49 records (9.9%) |
+| Last export | 2026-04-22T14:15:10.888599+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-tennessee-us-sample-524258/releases/download/sample-latest/beamstation_524258_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
